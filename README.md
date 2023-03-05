@@ -1,4 +1,4 @@
-# ForestConfigAPI
+# TheBungeeConfig
 ![badge](https://img.shields.io/github/v/release/FlyUltra/TheBungeeConfig)
 [![badge](https://jitpack.io/v/FlyUltra/TheBungeeConfig.svg)](https://jitpack.io/#FlyUltra/TheBungeeConfig)
 ![badge](https://img.shields.io/github/downloads/FlyUltra/TheBungeeConfig/total)
