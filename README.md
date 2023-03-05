@@ -96,4 +96,4 @@ dependencies {
 ```
 
 ## License
-ForestRedisAPI is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/FlyUltra/TheBungeeConfig/blob/master/LICENSE.txt) for more information.
+TheBungeeConfig is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/FlyUltra/TheBungeeConfig/blob/master/LICENSE.txt) for more information.
